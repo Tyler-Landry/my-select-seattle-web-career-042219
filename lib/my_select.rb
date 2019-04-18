@@ -1,3 +1,6 @@
 def my_select(collection)
-  collection.select{|x|  
+ list = []
+ i = 0
+ while i < collection.length
+ collection.select{|x|  
 end
