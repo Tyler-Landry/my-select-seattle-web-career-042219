@@ -1,3 +1,3 @@
 def my_select(collection)
-  collection.select{|x| do 
+  collection.select{|x|  
 end
